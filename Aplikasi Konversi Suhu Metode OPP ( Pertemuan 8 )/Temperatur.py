@@ -6,7 +6,6 @@ class Celcius:
         val = self.suhu
         return val
 
-
     def get_fahrenheit(self):
         val = (9/5 * self.suhu) + 32
         return val
